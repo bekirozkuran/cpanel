@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bekirmalikozkuran/Projects/conpanel/conpanel/conpanel.csproj": {}
+    "/Users/bekirmalikozkuran/Projects/conpanel/cpanel/conpanel/conpanel.csproj": {}
   },
   "projects": {
-    "/Users/bekirmalikozkuran/Projects/conpanel/conpanel/conpanel.csproj": {
+    "/Users/bekirmalikozkuran/Projects/conpanel/cpanel/conpanel/conpanel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bekirmalikozkuran/Projects/conpanel/conpanel/conpanel.csproj",
+        "projectUniqueName": "/Users/bekirmalikozkuran/Projects/conpanel/cpanel/conpanel/conpanel.csproj",
         "projectName": "conpanel",
-        "projectPath": "/Users/bekirmalikozkuran/Projects/conpanel/conpanel/conpanel.csproj",
+        "projectPath": "/Users/bekirmalikozkuran/Projects/conpanel/cpanel/conpanel/conpanel.csproj",
         "packagesPath": "/Users/bekirmalikozkuran/.nuget/packages/",
-        "outputPath": "/Users/bekirmalikozkuran/Projects/conpanel/conpanel/obj/",
+        "outputPath": "/Users/bekirmalikozkuran/Projects/conpanel/cpanel/conpanel/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bekirmalikozkuran/.config/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "44yDxAt1SesybNigMIqZ2ll+OYrJZyHSgaPepgLqdqQnDCWbgzAExoJagMJsu4XoBENU9L5yzlR5ac0OlIbQpQ==",
+  "dgSpecHash": "2YnnepUZ9lDiIHaGU3EKtmG2L8F/L2iryF6iPVy8jyfA6/NC8Eik3PSDvRWVAB6Qh7mxVvDk0rjOeB5VgAPdPQ==",
   "success": true,
-  "projectFilePath": "/Users/bekirmalikozkuran/Projects/conpanel/conpanel/conpanel.csproj",
+  "projectFilePath": "/Users/bekirmalikozkuran/Projects/conpanel/cpanel/conpanel/conpanel.csproj",
   "expectedPackageFiles": [
     "/Users/bekirmalikozkuran/.nuget/packages/microsoft.aspnetcore.antiforgery/2.2.0/microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "/Users/bekirmalikozkuran/.nuget/packages/microsoft.aspnetcore.authentication.abstractions/2.2.0/microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
