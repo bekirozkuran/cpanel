@@ -57,7 +57,7 @@ namespace conpanel.Controllers
             return View("Themes");
 
         }
-        public ActionResult Accounts()
+        public ActionResult Account()
         {
             return View("Account");
 
