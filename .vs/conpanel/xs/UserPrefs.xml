@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{2658D5D1-CEC8-4DC4-AD74-151BC9090EC5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="conpanel/conpanel.csproj">
+    <Files>
+      <File FileName="../../../../../usr/local/share/dotnet/x64/sdk/6.0.104/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets" Line="267" Column="5" />
+      <File FileName="conpanel/conpanel.csproj" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="conpanel" expanded="True" selected="True">
+            <Node name="conpanel" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.conpanel PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>
