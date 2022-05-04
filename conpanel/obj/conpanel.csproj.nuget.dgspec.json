@@ -1,26 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bekirmalikozkuran/Projects/conpanel/cpanel/conpanel/conpanel.csproj": {}
+    "C:\\Users\\bekir\\Documents\\cpanel\\conpanel\\conpanel.csproj": {}
   },
   "projects": {
-    "/Users/bekirmalikozkuran/Projects/conpanel/cpanel/conpanel/conpanel.csproj": {
+    "C:\\Users\\bekir\\Documents\\cpanel\\conpanel\\conpanel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bekirmalikozkuran/Projects/conpanel/cpanel/conpanel/conpanel.csproj",
+        "projectUniqueName": "C:\\Users\\bekir\\Documents\\cpanel\\conpanel\\conpanel.csproj",
         "projectName": "conpanel",
-        "projectPath": "/Users/bekirmalikozkuran/Projects/conpanel/cpanel/conpanel/conpanel.csproj",
-        "packagesPath": "/Users/bekirmalikozkuran/.nuget/packages/",
-        "outputPath": "/Users/bekirmalikozkuran/Projects/conpanel/cpanel/conpanel/obj/",
+        "projectPath": "C:\\Users\\bekir\\Documents\\cpanel\\conpanel\\conpanel.csproj",
+        "packagesPath": "C:\\Users\\bekir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bekir\\Documents\\cpanel\\conpanel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/bekirmalikozkuran/.config/NuGet/NuGet.Config"
+          "C:\\Users\\bekir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "/Users/bekirmalikozkuran/nuget": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,6 +55,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.24, 3.1.24]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -62,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.104/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
